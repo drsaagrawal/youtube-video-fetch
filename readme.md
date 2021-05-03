@@ -1,6 +1,6 @@
 This project is to frequently update the videos added by youtube
 
 Steps -
-docker-compose build
-docker-compose run web python manage.py migrate
-docker-compose up
+1. docker-compose build
+2. docker-compose run web python manage.py migrate
+3. docker-compose up
